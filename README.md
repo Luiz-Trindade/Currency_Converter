@@ -1,4 +1,4 @@
-<image src="https://commons.wikimedia.org/wiki/File:PD-icon.svg">
+<image src="public_domain.png">
 
 # Simple Currency Conversor Written In Python!
 
