@@ -1,4 +1,4 @@
-<image src="public_domain.png">
+<image src="public_domain.png" width="100px">
 
 # Simple Currency Conversor Written In Python!
 
